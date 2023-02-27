@@ -1,0 +1,9 @@
+{
+  "header": {
+    "home": "Home",
+    "news": "News",
+    "login": "Login",
+    "profile": "Profile",
+    "out": "Log Out"
+  }
+}
