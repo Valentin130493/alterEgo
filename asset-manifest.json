@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alterEgo/static/css/main.65278c8b.css",
+    "main.js": "/alterEgo/static/js/main.33377464.js",
+    "static/js/787.7952a39a.chunk.js": "/alterEgo/static/js/787.7952a39a.chunk.js",
+    "index.html": "/alterEgo/index.html",
+    "main.65278c8b.css.map": "/alterEgo/static/css/main.65278c8b.css.map",
+    "main.33377464.js.map": "/alterEgo/static/js/main.33377464.js.map",
+    "787.7952a39a.chunk.js.map": "/alterEgo/static/js/787.7952a39a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65278c8b.css",
+    "static/js/main.33377464.js"
+  ]
+}
