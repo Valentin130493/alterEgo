@@ -176,9 +176,10 @@ export const Header = () => {
                   onClose={handleCloseUserMenu}
                 >
                   <MenuItem onClick={handleCloseUserMenu}>
-                    <Typography textAlign="center">
+                    <Link to={"/profile"} className={"menu_link"}>
                       {t("header.profile")}
-                    </Typography>
+                    </Link>
+                    l
                   </MenuItem>
                   <MenuItem onClick={handleRemoveStorage}>
                     <Link

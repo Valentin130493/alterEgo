@@ -15,7 +15,7 @@ import {
 } from "../pages";
 import { PrivateRoute } from "./privateRoute";
 
-export const router = createBrowserRouter(
+export const router = createHashRouter(
   createRoutesFromElements(
     <Route path={routes.layout} element={<Layout />}>
       <Route index element={<HomePage />} />
